@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @hith3sh
-- 👀 I’m interested in python learning
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in blockchain, AI ,machine learning
 - 📫 How to reach me https://www.linkedin.com/in/hithesh-j-257362a4/
 
 <!---
