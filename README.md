@@ -1,4 +1,4 @@
-# 💫 About Me: Engieering student who is passionate about machine learning / deep learning
+# 💫 About Me:
 🌱 I’m currently learning machine learning/deep neural networks<br><br>📫 How to reach me hithesh0215@gmail.com
 
 
