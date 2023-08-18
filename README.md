@@ -4,7 +4,8 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hitheshjayawardana) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Hithesh0215) 
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/clfoejjta10330fmqy070ukur)
+[![An image of @hith3sh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hith3sh)](https://holopin.io/@hith3sh)
+
 
 
 # 💻 Tech Stack:
