@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning machine learning/deep neural networks<br><br>📫 How to reach me hithesh0215@gmail.com
+🌱 tryina understand neural nets<br><br>📫 How to reach me hithesh0215@gmail.com
 
 
 ## 🌐 Socials:
