@@ -1,10 +1,6 @@
 # 💫 About Me:
 🌱 tryina understand neural nets<br><br>📫 How to reach me hithesh0215@gmail.com
 
-### 
-Watch my contribution graph get eaten by the snake 🐍
-![github-contribution-grid-snake](https://github.com/user-attachments/assets/adabb6cc-9403-440a-ad61-3b4e4a4e976e)
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hitheshjayawardana) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Hithesh0215) 
@@ -19,3 +15,6 @@ Watch my contribution graph get eaten by the snake 🐍
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hith3sh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hith3sh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+### 
+My contribution graph 
+![github-contribution-grid-snake](https://github.com/hith3sh/hith3sh/blob/output/github-contribution-grid-snake-dark.svg)
