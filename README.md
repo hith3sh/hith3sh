@@ -1,6 +1,10 @@
 # 💫 About Me:
 🌱 tryina understand neural nets<br><br>📫 How to reach me hithesh0215@gmail.com
 
+### 
+Watch my contribution graph get eaten by the snake 🐍
+![github-contribution-grid-snake](https://github.com/user-attachments/assets/adabb6cc-9403-440a-ad61-3b4e4a4e976e)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hitheshjayawardana) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Hithesh0215) 
