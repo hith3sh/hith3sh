@@ -1,5 +1,5 @@
-# 💫 About Me:
-🌱 tryina understand neural nets<br><br>📫 How to reach me hithesh0215@gmail.com
+
+📫 How to reach me hithesh0215@gmail.com
 
 
 ## 🌐 Socials:
