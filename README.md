@@ -1,5 +1,4 @@
-Ahoy! I'm Hithesh
-
+![daftpunktocat-guy-ezgif com-resize](https://github.com/user-attachments/assets/9cb715f4-6c57-4520-87e3-175bdb3ec48d) Ahoy! I'm Hithesh
 
 
 ![42b4229a9ec3145edaa895b2415dd720](https://github.com/user-attachments/assets/a9e74001-e365-4289-98aa-811a18436c6a)
@@ -24,6 +23,3 @@ Ahoy! I'm Hithesh
 
 # Contribution graph:
 ![github-contribution-grid-snake](https://github.com/hith3sh/hith3sh/blob/output/github-contribution-grid-snake-dark.svg)
-
-
-![daftpunktocat-thomas-ezgif com-resize (1)](https://github.com/user-attachments/assets/7a340d52-24fd-4722-9d05-65e7009979ae)
