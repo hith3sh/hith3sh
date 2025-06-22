@@ -24,7 +24,7 @@
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,python,cpp,nodejs,express,mongodb,supabase,postgres,docker,git,github,vercel,tailwind,figma,linux&theme=dark&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,python,cpp,nodejs,express,mongodb,supabase,postgres,docker,git,github,vercel,tailwind,linux&theme=dark&perline=9"/>
 </p>
 
 <p align="center">
@@ -37,7 +37,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
