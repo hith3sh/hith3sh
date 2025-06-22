@@ -1,25 +1,59 @@
-![daftpunktocat-guy-ezgif com-resize](https://github.com/user-attachments/assets/9cb715f4-6c57-4520-87e3-175bdb3ec48d) Ahoy! I'm Hithesh
+<!-- Banner & Greeting -->
 
 
-![42b4229a9ec3145edaa895b2415dd720](https://github.com/user-attachments/assets/a9e74001-e365-4289-98aa-811a18436c6a)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a9e74001-e365-4289-98aa-811a18436c6a" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hith3sh&color=red" alt="Profile views"/>
+</p>
 
 
 
-![](https://komarev.com/ghpvc/?username=hith3sh&color=red)
+## 📫 How to reach me
+<p align="center">
+  <a href="mailto:hithesh0215@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/hitheshjayawardana"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://twitter.com/Hithesh0215"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge"/></a>
+</p>
 
-📫 How to reach me hithesh0215@gmail.com or 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hitheshjayawardana) or [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Hithesh0215) 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/75bff83a-63b6-4053-aad5-ffc7f085ca44" width="200"/>
+</p>
 
-![colorlight](https://github.com/user-attachments/assets/75bff83a-63b6-4053-aad5-ffc7f085ca44)
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,python,cpp,nodejs,express,mongodb,supabase,postgres,docker,git,github,vercel,tailwind,figma,linux&theme=dark&perline=9"/>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JS](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hith3sh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hith3sh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+</p>
 
-# Contribution graph:
-![github-contribution-grid-snake](https://github.com/hith3sh/hith3sh/blob/output/github-contribution-grid-snake-dark.svg)
+---
+
+## 🐍 Contribution Graph
+<p align="center">
+  <img src="https://github.com/hith3sh/hith3sh/blob/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
